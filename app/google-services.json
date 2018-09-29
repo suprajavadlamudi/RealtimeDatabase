@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "825140771593",
+    "firebase_url": "https://realtimedatabase-b3a49.firebaseio.com",
+    "project_id": "realtimedatabase-b3a49",
+    "storage_bucket": "realtimedatabase-b3a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825140771593:android:cf24494df9b4e827",
+        "android_client_info": {
+          "package_name": "com.example.supraja_pc.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825140771593-t9a8kbp8l0t4keda6pjntvn73nmf5v4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.supraja_pc.realtimedatabase",
+            "certificate_hash": "34e81183f0d5f855348d2243988ad551d5b0f71f"
+          }
+        },
+        {
+          "client_id": "825140771593-4i1rfp3g7kk2gfumdv0f23rsgaufaqu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQdlnpulsYpKGvLGQljHVMn1VpRVFwuFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825140771593-4i1rfp3g7kk2gfumdv0f23rsgaufaqu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
